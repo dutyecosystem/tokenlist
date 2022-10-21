@@ -6,7 +6,7 @@
     "minor": 16,
     "patch": 111
   },
-  "logoURI": "/logo.png",
+  "logoURI": "https://api.ipfsbrowser.com/ipfs/get.php?hash=QmPs2GS8MGpLHWA7FVkLJWzxrprrgjhiEbiC7gNDz1Jf6p",
   "keywords": [
     "dutyexchange",
     "extended"
@@ -18,7 +18,7 @@
         "address": "0xeb82ec82Fb3c5e30aA30812C18e8047Bd0fCe055",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "/logo.png"
+        "logoURI": "https://api.ipfsbrowser.com/ipfs/get.php?hash=QmPs2GS8MGpLHWA7FVkLJWzxrprrgjhiEbiC7gNDz1Jf6p"
     },
     {
       "name": "PancakeSwap Token",
