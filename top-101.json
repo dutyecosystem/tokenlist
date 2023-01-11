@@ -6,7 +6,7 @@
     "minor": 16,
     "patch": 13
   },
-  "logoURI": "https://api.ipfsbrowser.com/ipfs/get.php?hash=QmPs2GS8MGpLHWA7FVkLJWzxrprrgjhiEbiC7gNDz1Jf6p",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreih6tljzmusuycbgh2ezbi2ows5nuz3w3w76u7bhdrmt6trstuyxti",
   "keywords": [
     "dutyexchange",
     "top 101"
@@ -18,7 +18,7 @@
         "address": "0xeb82ec82Fb3c5e30aA30812C18e8047Bd0fCe055",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://api.ipfsbrowser.com/ipfs/get.php?hash=QmPs2GS8MGpLHWA7FVkLJWzxrprrgjhiEbiC7gNDz1Jf6p"
+        "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreih6tljzmusuycbgh2ezbi2ows5nuz3w3w76u7bhdrmt6trstuyxti"
     },
     {
       "name": "Cardano Token",
